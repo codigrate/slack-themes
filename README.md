@@ -570,12 +570,12 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E6C41A.png?width=30&height=30" alt="#E6C41A"></td>
+      <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
       <td>
          Presence Indication
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/E6C41A">#E6C41A</a>
+         <a href="https://codigrate.com/tools/color/2287D5">#2287D5</a>
       </td>
    </tr>
    <tr>
