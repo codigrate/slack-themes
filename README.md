@@ -39,22 +39,22 @@ Choose **Light**, **Dark**, or **System** from Slack's Appearance settings first
 ## Nature
 
 <p align="center">
-    <img src="nature/everest-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=everest&category=nature">
+      <img src="nature/everest-theme/icon.png" alt="Everest" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Everest
+   Everest
 </h1>
 
 ## Description
 
-Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and
-focused working environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke
-the golden hues of dawn breaking over snow-capped peaks.
+Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
 
 ## Screenshots
 
-<img src="nature/everest-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/everest-theme/screenshot-1.png" alt="Everest screenshot">
 
 ## Color Palette
 
@@ -184,22 +184,22 @@ the golden hues of dawn breaking over snow-capped peaks.
 ---
 
 <p align="center">
-    <img src="nature/aurora-borealis-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=aurora-borealis&category=nature">
+      <img src="nature/aurora-borealis-theme/icon.png" alt="Aurora Borealis" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Aurora Borealis
+   Aurora Borealis
 </h1>
 
 ## Description
 
-Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic
-night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern
-Lights. The palette is designed to be straightforward on the eyes, helping you focus and work efficiently.
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
 
 ## Screenshots
 
-<img src="nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/aurora-borealis-theme/screenshot-1.png" alt="Aurora Borealis screenshot">
 
 ## Color Palette
 
@@ -329,23 +329,22 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
 ---
 
 <p align="center">
-    <img src="nature/sakura-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=sakura&category=nature">
+      <img src="nature/sakura-theme/icon.png" alt="Sakura" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Sakura
+   Sakura
 </h1>
 
 ## Description
 
-Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
-Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as
-complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura
-garden, is designed to be straightforward on the eyes, aiding focus and efficient working.
+Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 
 ## Screenshots
 
-<img src="nature/sakura-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/sakura-theme/screenshot-1.png" alt="Sakura screenshot">
 
 ## Color Palette
 
@@ -475,23 +474,22 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
 ---
 
 <p align="center">
-    <img src="nature/sequoia-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=sequoia&category=nature">
+      <img src="nature/sequoia-theme/icon.png" alt="Sequoia" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Sequoia
+   Sequoia
 </h1>
 
 ## Description
 
-Inspired by the towering presence and serene environment of sequoias, it envelops your workspace in deep blacks
-and browns, providing a calm and focused working atmosphere. Accents of vibrant green illuminate the interface subtly,
-mirroring the vitality of these magnificent trees. Venture into the digital woods and let its
-grounded, tranquil palette guide you through the logical forest of your work efficiently.
+Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly, mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its grounded, tranquil palette guide you through the logical forest of your code efficiently.
 
 ## Screenshots
 
-<img src="nature/sequoia-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/sequoia-theme/screenshot-1.png" alt="Sequoia screenshot">
 
 ## Color Palette
 
@@ -621,22 +619,22 @@ grounded, tranquil palette guide you through the logical forest of your work eff
 ---
 
 <p align="center">
-    <img src="nature/autumn-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=autumn&category=nature">
+      <img src="nature/autumn-theme/icon.png" alt="Autumn" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Autumn
+   Autumn
 </h1>
 
 ## Description
 
-Inspired by the warm hues and rustic feel of autumn, this light theme aims to evoke a sense of comfort and
-tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late
-afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
 
 ## Screenshots
 
-<img src="nature/autumn-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/autumn-theme/screenshot-1.png" alt="Autumn screenshot">
 
 ## Color Palette
 
@@ -766,7 +764,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 ---
 
 <p align="center">
-    <img src="nature/roraima-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=roraima&category=nature">
+      <img src="nature/roraima-theme/icon.png" alt="Roraima" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -775,14 +775,11 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 ## Description
 
-Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of
-blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day
-transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and
-focused working experience.
+Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and focused coding experience.
 
 ## Screenshots
 
-<img src="nature/roraima-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/roraima-theme/screenshot-1.png" alt="Roraima screenshot">
 
 ## Color Palette
 
@@ -912,23 +909,22 @@ focused working experience.
 ## Cities
 
 <p align="center">
-    <img src="cities/istanbul-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=istanbul&category=cities">
+      <img src="cities/istanbul-theme/icon.png" alt="Istanbul" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Istanbul
+   Istanbul
 </h1>
 
 ## Description
 
-Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm
-historical accents to create a serene yet expressive working environment. Light, airy backgrounds keep the
-workspace clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential
-syntax elements.
+Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential syntax elements.
 
 ## Screenshots
 
-<img src="cities/istanbul-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/istanbul-theme/screenshot-1.png" alt="Istanbul screenshot">
 
 ## Color Palette
 
@@ -1058,22 +1054,22 @@ syntax elements.
 ---
 
 <p align="center">
-    <img src="cities/miami-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=miami&category=cities">
+      <img src="cities/miami-theme/icon.png" alt="Miami" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Miami
+   Miami
 </h1>
 
 ## Description
 
-Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents
-to create a bold yet balanced working environment. Dark, warm backgrounds ground the workspace, while vivid pinks, corals,
-and tropical teals bring energy and clarity to key syntax elements.
+Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
 
 ## Screenshots
 
-<img src="cities/miami-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/miami-theme/screenshot-1.png" alt="Miami screenshot">
 
 ## Color Palette
 
@@ -1203,22 +1199,22 @@ and tropical teals bring energy and clarity to key syntax elements.
 ---
 
 <p align="center">
-    <img src="cities/rio-de-janeiro-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=rio-de-janeiro&category=cities">
+      <img src="cities/rio-de-janeiro-theme/icon.png" alt="Rio de Janeiro" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Rio de Janeiro
+   Rio de Janeiro
 </h1>
 
 ## Description
 
-Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty
-backgrounds with confident rainforest greens and clean coastal blues. The workspace stays bright and
-calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
+Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
 
 ## Screenshots
 
-<img src="cities/rio-de-janeiro-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/rio-de-janeiro-theme/screenshot-1.png" alt="Rio de Janeiro screenshot">
 
 ## Color Palette
 
@@ -1348,23 +1344,22 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
 ---
 
 <p align="center">
-    <img src="cities/paris-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=paris&category=cities">
+      <img src="cities/paris-theme/icon.png" alt="Paris" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Paris
+   Paris
 </h1>
 
 ## Description
 
-Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty
-rose accents over calm plum-espresso tones. Soft dark workspace backgrounds keep focus clear, while mauve
-surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention
-across the interface.
+Inspired by elegant boulevards and Paris’s sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
 
 ## Screenshots
 
-<img src="cities/paris-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/paris-theme/screenshot-1.png" alt="Paris screenshot">
 
 ## Color Palette
 
@@ -1494,22 +1489,22 @@ across the interface.
 ---
 
 <p align="center">
-    <img src="cities/tallinn-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=tallinn&category=cities">
+      <img src="cities/tallinn-theme/icon.png" alt="Tallinn" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Tallinn
+   Tallinn
 </h1>
 
 ## Description
 
-Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool
-Nordic blues for a clean, focused working experience. Soft, bright surfaces enhance readability, while deep
-ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
+Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
 
 ## Screenshots
 
-<img src="cities/tallinn-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/tallinn-theme/screenshot-1.png" alt="Tallinn screenshot">
 
 ## Color Palette
 
@@ -1639,23 +1634,22 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
 ---
 
 <p align="center">
-    <img src="cities/tokyo-theme/icon.png" alt="Logo" width=160>
+   <a href="https://codigrate.com/theme?product=tokyo&category=cities">
+      <img src="cities/tokyo-theme/icon.png" alt="Tokyo" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Tokyo
+   Tokyo
 </h1>
 
 ## Description
 
-Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme
-blends deep indigo shadows with electric violet highlights to create a sleek, futuristic working atmosphere.
-Moody blues keep the workspace calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add
-clarity and energy to key syntax elements.
+Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere. Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add clarity and energy to key syntax elements.
 
 ## Screenshots
 
-<img src="cities/tokyo-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/tokyo-theme/screenshot-1.png" alt="Tokyo screenshot">
 
 ## Color Palette
 
