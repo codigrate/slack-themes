@@ -62,7 +62,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/CADAE0.png?width=30&height=30" alt="#CADAE0"></td>
       <td>
-         Glacier Edge
+         Ice Melt
       </td>
       <td>
          System Navigation
@@ -171,7 +171,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/7AC6F5.png?width=30&height=30" alt="#7AC6F5"></td>
       <td>
-         Aurora Sky
+         Arctic Cyan
       </td>
       <td>
          Notifications
@@ -281,7 +281,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/394132.png?width=30&height=30" alt="#394132"></td>
       <td>
-         Bark Shadow
+         Evergreen Shade
       </td>
       <td>
          System Navigation
@@ -390,7 +390,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/A7714C.png?width=30&height=30" alt="#A7714C"></td>
       <td>
-         Chestnut
+         Copper Leaf
       </td>
       <td>
          Notifications
@@ -427,7 +427,7 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/372C2F.png?width=30&height=30" alt="#372C2F"></td>
       <td>
-         Basalt
+         Canyon Shadow
       </td>
       <td>
          System Navigation
@@ -573,7 +573,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/5D263A.png?width=30&height=30" alt="#5D263A"></td>
       <td>
-         Mulberry Shadow
+         Plum Night
       </td>
       <td>
          System Navigation
@@ -597,7 +597,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/17C7AC.png?width=30&height=30" alt="#17C7AC"></td>
       <td>
-         South Beach Teal
+         Electric Aqua
       </td>
       <td>
          Presence Indication
@@ -755,7 +755,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/D18FA8.png?width=30&height=30" alt="#D18FA8"></td>
       <td>
-         Paris Rose
+         Montmartre Rose
       </td>
       <td>
          Notifications
@@ -804,7 +804,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/BECCEC.png?width=30&height=30" alt="#BECCEC"></td>
       <td>
-         Frosted Glass
+         Winter Sky
       </td>
       <td>
          Selected Items
@@ -828,7 +828,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/3F4494.png?width=30&height=30" alt="#3F4494"></td>
       <td>
-         Baltic Indigo
+         Old Town Indigo
       </td>
       <td>
          Notifications
@@ -865,7 +865,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/323B66.png?width=30&height=30" alt="#323B66"></td>
       <td>
-         City Block
+         Indigo District
       </td>
       <td>
          System Navigation
@@ -877,7 +877,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/354172.png?width=30&height=30" alt="#354172"></td>
       <td>
-         Metro Night
+         Indigo District
       </td>
       <td>
          Selected Items
