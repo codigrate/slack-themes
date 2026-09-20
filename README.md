@@ -14,6 +14,9 @@ Each palette is adapted from Codigrate JetBrains themes and tuned for Slack's bu
 These themes do not require extensions, patches, or custom CSS. Copy a theme string from this repository and paste it
 into Slack's custom theme field.
 
+The themes marked **Premium** below are sold on [codigrate.com](https://codigrate.com) for a small one-time price; the
+purchase delivers the theme string with the same install steps. The other themes are free, MIT licensed, right here.
+
 ## Getting Started
 
 1. Open Slack.
@@ -474,6 +477,150 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=salda&platform=slack">
+      <img src="nature/salda-theme/icon.png" alt="Salda" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Salda
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=salda&platform=slack)
+
+## Description
+
+Inspired by the white shores and turquoise shallows of Lake Salda, this theme pairs warm sand and soft cream backgrounds with clear lagoon blues and teals to create a bright and unhurried coding environment. Pale, airy surfaces keep the editor calm, while lagoon blues, shaded teals, and a fresh reed green add definition and focus to key syntax elements.
+
+## Screenshots
+
+<img src="nature/salda-theme/screenshot-1.png" alt="Salda screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=ocean&platform=slack">
+      <img src="nature/ocean-theme/icon.png" alt="Ocean" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Ocean
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=ocean&platform=slack)
+
+## Description
+
+Inspired by the deep sea and the quiet glow of life far below the surface, this theme layers dark teal and blue-green shadows with bioluminescent cyan, coral pink, and sea glass accents to create a calm and immersive coding environment. Deep, cool backgrounds keep the editor restful, while bright cyans, soft pinks, and warm sandbar tones add clarity and focus to key syntax elements.
+
+## Screenshots
+
+<img src="nature/ocean-theme/screenshot-1.png" alt="Ocean screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=reynisfjara&platform=slack">
+      <img src="nature/reynisfjara-theme/icon.png" alt="Reynisfjara" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Reynisfjara
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=reynisfjara&platform=slack)
+
+## Description
+
+Inspired by the black sand of Reynisfjara at dusk, where basalt columns rise over the wet shore and the last light fades on the North Atlantic, this theme layers charcoal and slate shadows with driftwood, pebble, and bleached sand accents to create a calm and cinematic coding environment. Deep, muted backgrounds keep the editor restful, while warm timbers, pale driftwoods, and soft sands add clarity and focus to key syntax elements.
+
+## Screenshots
+
+<img src="nature/reynisfjara-theme/screenshot-1.png" alt="Reynisfjara screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=etna&platform=slack">
+      <img src="nature/etna-theme/icon.png" alt="Etna" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Etna
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=etna&platform=slack)
+
+## Description
+
+Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen basalt grey base and layers in the incandescent reds, oranges, and golds of molten lava. The near-neutral charcoal surface keeps long sessions calm, while the warm lava accents draw the eye to what matters.
+
+## Screenshots
+
+<img src="nature/etna-theme/screenshot-1.png" alt="Etna screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=fuji&platform=slack">
+      <img src="nature/fuji-theme/icon.png" alt="Fuji" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Fuji
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=fuji&platform=slack)
+
+## Description
+
+Inspired by Mount Fuji at first light, this light theme rests on the soft coral-peach glow of dawn over snow white, then lifts it with sakura pink and a lakeside torii's vermilion. The calm dawn surface keeps long sessions easy on the eyes while the blossom accents mark what matters.
+
+## Screenshots
+
+<img src="nature/fuji-theme/screenshot-1.png" alt="Fuji screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=spring&platform=slack">
+      <img src="nature/spring-theme/icon.png" alt="Spring" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Spring
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=spring&platform=slack)
+
+## Description
+
+Inspired by a spring garden in full bloom, from tulip beds and crocus to the first new grass under a clear sky, this theme pairs airy mint and soft green backgrounds with foxglove, violet, and cornflower accents to create a fresh and unhurried coding environment. Bright, open surfaces keep the editor calm, while clover greens, crocus violets, and robin egg blues add definition and focus to key syntax elements.
+
+## Screenshots
+
+<img src="nature/spring-theme/screenshot-1.png" alt="Spring screenshot">
+
 ## Cities
 
 <p align="center">
@@ -911,6 +1058,126 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
       </td>
    </tr>
 </table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=sydney&platform=slack">
+      <img src="cities/sydney-theme/icon.png" alt="Sydney" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Sydney
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=sydney&platform=slack)
+
+## Description
+
+Inspired by Sydney Harbour at midday, from the white sails of the Opera House to the sandstone glowing along the shore, this theme pairs airy white and pale mist backgrounds with harbour blues, jade teals, and outback golds to create a bright and vibrant coding environment. Light, open surfaces keep the editor clear, while Pacific blues, warm coppers, and desert clays add definition and focus to key syntax elements.
+
+## Screenshots
+
+<img src="cities/sydney-theme/screenshot-1.png" alt="Sydney screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=prague&platform=slack">
+      <img src="cities/prague-theme/icon.png" alt="Prague" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Prague
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=prague&platform=slack)
+
+## Description
+
+Inspired by Prague after dark, from the deep blues of the Vltava to the gas lamps glowing along its bridges, this theme layers midnight navy and castle blue shadows with amber, copper, and straw gold accents to create a warm and cinematic coding environment. Deep, cool backgrounds keep the editor restful, while pale river blues, lantern ambers, and rooftop coppers add clarity and focus to key syntax elements.
+
+## Screenshots
+
+<img src="cities/prague-theme/screenshot-1.png" alt="Prague screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=vienna&platform=slack">
+      <img src="cities/vienna-theme/icon.png" alt="Vienna" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Vienna
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=vienna&platform=slack)
+
+## Description
+
+Inspired by a Viennese evening at the opera, from velvet seats and candlelit boxes to gilded balconies and the sheet music on the stands, this theme layers mahogany and crimson shadows with imperial gold, candlelight, and marzipan accents to create a warm and cinematic coding environment. Deep, rich backgrounds keep the editor restful, while golds, pastry creams, and palace olives add clarity and focus to key syntax elements.
+
+## Screenshots
+
+<img src="cities/vienna-theme/screenshot-1.png" alt="Vienna screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=madrid&platform=slack">
+      <img src="cities/madrid-theme/icon.png" alt="Madrid" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Madrid
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=madrid&platform=slack)
+
+## Description
+
+Inspired by a Madrid balcony at midday, from sunlit facades and saffron awnings to the claveles spilling over the railings, this theme pairs warm golden and cream backgrounds with flamenco reds, sangria, and azulejo blues to create a bright and vibrant coding environment. Light, sun-warmed surfaces keep the editor clear, while Toledo golds, Spanish reds, and Andalusian teals add definition and focus to key syntax elements.
+
+## Screenshots
+
+<img src="cities/madrid-theme/screenshot-1.png" alt="Madrid screenshot">
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=london&platform=slack">
+      <img src="cities/london-theme/icon.png" alt="London" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   London
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=london&platform=slack)
+
+## Description
+
+Inspired by London at dusk, this dark theme rests on a slate grey base washed with twilight indigo, then lights it with the pillar box red of a K6 telephone box and the muted steel blue of the Thames. The calm grey surface keeps long sessions easy on the eyes while the red accents mark what matters.
+
+## Screenshots
+
+<img src="cities/london-theme/screenshot-1.png" alt="London screenshot">
 
 <!-- codigrate-readme-footer -->
 
