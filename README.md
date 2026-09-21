@@ -25,6 +25,7 @@ purchase delivers the theme string with the same install steps. The other themes
 4. Choose **Create a custom theme**.
 5. Copy one of the theme strings from a theme file in this repository.
 6. Paste it into Slack's custom theme field.
+7. In the same **Appearance** settings, choose **Light** or **Dark** mode to match the palette; in Dark mode, turn on **Darker sidebars**.
 
 ## Theme Format
 
@@ -36,8 +37,12 @@ System Navigation, Selected Items, Presence Indication, Notifications
 
 ## Light and Dark Mode
 
-Slack custom theme strings do not control Slack's light or dark mode.
-Choose **Light**, **Dark**, or **System** from Slack's Appearance settings first, then apply the palette.
+Slack custom theme strings do not control Slack's light or dark mode. Set it in **Preferences | Appearance**.
+
+Use **Light** mode for the light palettes and **Dark** mode for the dark ones. In Dark mode, turn on
+**Darker sidebars** for a rich, readable sidebar.
+
+If you switch between light and dark mode, restart Slack so the theme applies correctly.
 
 ## Nature
 
