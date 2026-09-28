@@ -1184,6 +1184,30 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
 
 <img src="cities/london-theme/screenshot-1.png" alt="London screenshot">
 
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=dublin&platform=slack">
+      <img src="cities/dublin-theme/icon.png" alt="Dublin" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Dublin
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=dublin&platform=slack)
+
+## Description
+
+Inspired by Dublin on a bright morning, this light theme rests on a fresh park green base, then lights it with shamrock green and the orange of the autumn trees around the castle tower. The soft green surface keeps long sessions easy on the eyes while the green and orange accents mark what matters.
+
+## Screenshots
+
+<img src="cities/dublin-theme/screenshot-1.png" alt="Dublin screenshot">
+
 <!-- codigrate-readme-footer -->
 
 ## Contributing
