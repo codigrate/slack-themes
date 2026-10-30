@@ -626,6 +626,30 @@ Inspired by a spring garden in full bloom, from tulip beds and crocus to the fir
 
 <img src="nature/spring-theme/screenshot-1.png" alt="Spring screenshot">
 
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=bioluminescence&platform=slack">
+      <img src="nature/bioluminescence-theme/icon.png" alt="Bioluminescence" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Bioluminescence
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=bioluminescence&platform=slack)
+
+## Description
+
+Inspired by a bioluminescent shore at night, where every wave breaking on the sand lights up in electric blue, this dark theme rests on a near-black ocean base tinted with midnight navy, then lights it with glowing cyan, plankton blue, and violet accents. The deep water surface keeps long sessions calm, while the luminous cold accents draw the eye to what matters.
+
+## Screenshots
+
+<img src="nature/bioluminescence-theme/screenshot-1.png" alt="Bioluminescence screenshot">
+
 ## Cities
 
 <p align="center">
